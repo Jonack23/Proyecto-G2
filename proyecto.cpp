@@ -10,14 +10,10 @@ int main (){
     cout << "MENU" << endl;
     cout << "1.RETIRAR" << endl;
     cout << "2.DEPOSITAR" << endl;
+    cout << "3. Registrarme" << endl;
+    cout << "4. Ayuda" << endl;
+    cout << "5. Integrantes" << endl;
+    cin >> opcion;
     
-
-
-
-
-
-
-
-
     return 0;
 }
